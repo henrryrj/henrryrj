@@ -6,7 +6,7 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 35px></picture> **About me**
 
-<img align="right" style="width:8rem; height:auto" src="https://media1.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47ium8frtkju0ermoy5of0pdqq0mgsg7adnpsanbbn&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
+<img align="right" style="width:18rem; height:auto" src="https://media1.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif?cid=ecf05e47ium8frtkju0ermoy5of0pdqq0mgsg7adnpsanbbn&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 - 💡 &nbsp;I enjoy exploring new technologies and applying my knowledge to develop quality software.
 - 🎓 &nbsp;Currently graduated from the computer engineering program and in the process of obtaining the academic degree.
